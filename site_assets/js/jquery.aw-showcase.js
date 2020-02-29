@@ -20,7 +20,7 @@
 				<!-- If the slide contains multiple elements you should wrap them in a div with the class .showcase-content-wrapper. 
 				We usually wrap even if there is only one element, because it looks better. :-) -->
 				<div class="showcase-content-wrapper">
-					<img src="images/01.jpg" alt="01" />
+					<img src="site_assets/images/01.jpg" alt="01" />
 				</div>
 			</div>
 			<!-- Put the caption content in a div with the class .showcase-caption -->
@@ -36,7 +36,7 @@
 				</a>
 				<a href="https://web.archive.org/web/20190126004921/http://www.awkward.se" coords="356, 172">
 					<!-- You can add multiple elements to the anchor-tag which are display in the tooltip. -->
-					<img src="images/glasses.png" />
+					<img src="site_assets/images/glasses.png" />
 					<span style="display: block; font-weight: bold; padding: 3px 0 3px 0; text-align: center;">
 						White Glasses: 500$
 					</span>

@@ -5,11 +5,11 @@ body {
 
 @font-face {
   font-family: "Rockwell Light";
-  src: url("fonts/rockwelllight.eot");
-  src: url("fonts/rockwelllight.eot#iefix") format("embedded-opentype"),
-    url("fonts/rockwelllight.woff") format("woff"),
-    url("fonts/rockwelllight.ttf") format("truetype"),
-    url("fonts/rockwell_light.svg#rockwell_light") format("svg");
+  src: url("site_assets/fonts//rockwelllight.eot");
+  src: url("site_assets/fonts//rockwelllight.eot#iefix") format("embedded-opentype"),
+    url("site_assets/fonts//rockwelllight.woff") format("woff"),
+    url("site_assets/fonts//rockwelllight.ttf") format("truetype"),
+    url("site_assets/fonts//rockwell_light.svg#rockwell_light") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -295,7 +295,7 @@ h2 {
 .showcase-arrow-previous,
 .showcase-arrow-next {
   position: absolute;
-  background: url("images/arrows.png");
+  background: url("site_assets/images/arrows.png");
   width: 33px;
   height: 33px;
   top: 220px;
@@ -335,7 +335,7 @@ h2 {
 
 /* Styling the tooltips */
 .showcase-plus-anchor {
-  background-image: url("images/plus.png");
+  background-image: url("site_assets/images/plus.png");
   background-repeat: no-repeat;
 }
 
@@ -348,7 +348,7 @@ div.showcase-tooltip {
   color: #000;
   text-align: left;
   padding: 5px 8px;
-  background-image: url(images/white-opacity-80.png);
+  background-image: url(site_assets/images/white-opacity-80.png);
 }
 
 /* Styling the caption */
@@ -361,7 +361,7 @@ div.showcase-tooltip {
   left: 10px;
   right: 10px;
   display: none;
-  background-image: url(images/white-opacity-80.png);
+  background-image: url(site_assets/images/white-opacity-80.png);
 }
 
 .showcase-onepage .showcase-content {
@@ -419,7 +419,7 @@ div.showcase-tooltip {
 }
 
 .showcase-thumbnail-cover {
-  background-image: url(images/black-opacity-40.png);
+  background-image: url(site_assets/images/black-opacity-40.png);
   position: absolute;
   top: 0;
   bottom: 0;
@@ -475,7 +475,7 @@ div.showcase-tooltip {
 .showcase-thumbnail-button-forward .showcase-thumbnail-vertical,
 .showcase-thumbnail-button-forward .showcase-thumbnail-horizontal,
 .showcase-thumbnail-button-backward .showcase-thumbnail-horizontal {
-  background-image: url(images/arrows-small.png);
+  background-image: url(site_assets/images/arrows-small.png);
   background-repeat: no-repeat;
   display: block;
   width: 17px;
